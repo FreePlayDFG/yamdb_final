@@ -200,4 +200,8 @@ python manage.py loaddata infra/fixtures.json
 ### Документация API YaMDb - эндпойнт:
 ```json
 /redoc/
-``
+```
+http://84.201.167.253/redoc/
+### Развёрнутый проект:
+http://158.160.19.134/api/v1/  
+http://158.160.19.134/admin
